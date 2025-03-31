@@ -1,2 +1,3 @@
-# conflict_exercise
-TP N°2 - 3. Conflict Exercise
+# Conflict Exercise
+Este es el repositorio de la tercera parte del Trabajo Práctico N°2.
+
